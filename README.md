@@ -12,6 +12,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Cloud-Computing+Enthusiast;Always+Learning+New+Things;Nice+To+Meet+You+...&center=true"></a>
 
 </p>
+
 ## <👨‍💻 About Me>
 
 My name is **Kartik Joshi** and I am a pre-final year student pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;&nbsp;I am a **DevOps & Cloud Enthusiast** & also passionate about **Software Engineering** 💻  &nbsp;Believe in **Learning & Experience new Techniques & Stacks**  
