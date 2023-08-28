@@ -36,7 +36,7 @@ My name is **Kartik Joshi** and I am a pre-final year student pursuing my Bachel
 ![Docker](https://img.shields.io/badge/-docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-markdown-747578?style=for-the-badge&logo=markdown&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps--blue?style=for-the-badges&logo=markdown&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps--blue?style=for-the-badges&logo=DevOps&logoColor=white)
 </h1>
 
 
