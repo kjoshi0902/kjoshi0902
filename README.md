@@ -15,7 +15,7 @@
 
 ## <👨‍💻 About Me>
 
-My name is **Kartik Joshi** and I am a pre-final year student pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;&nbsp;I am a **DevOps & ML Enthusiast** & also passionate about **Software Engineering** 💻  &nbsp;Believe in **Learning & Experience new Techniques & Stacks**  
+My name is **Kartik Joshi** and I am a final year student pursuing my Bachelor's in Information Technology from India 🎓 &nbsp;&nbsp;I am a **DevOps & ML Enthusiast** & also passionate about **Software Engineering** 💻  &nbsp;Believe in **Learning & Experience new Techniques & Stacks**  
 <h1 align = "center">
   
   <a href="https://twitter.com/kartik_joshi5" target="_blank"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
